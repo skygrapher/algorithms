@@ -3,14 +3,14 @@
 
 * https://www.hackerrank.com
 
-## Warm-Up
-* Sock Merchant
-* Counting Valleys
-* Jumping on the Clouds
-* [Repeated String](warm-up/repeated-string.md)
-
 ## Practice
 ### 2020.04.01
 * [2D Array - DS](practice/2d-array.md)
 * [Arrays: Left Rotation](practice/arrays-left-rotation.md)
 
+## Warm-Up
+https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
+* Sock Merchant
+* Counting Valleys
+* Jumping on the Clouds
+* [Repeated String](warm-up/repeated-string.md)
