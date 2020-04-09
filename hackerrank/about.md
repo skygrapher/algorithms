@@ -4,6 +4,10 @@
 * https://www.hackerrank.com
 
 ## Practice
+### 2020.04.14 (예정)
+* https://www.hackerrank.com/challenges/new-year-chaos/problem
+* https://www.hackerrank.com/challenges/ctci-ransom-note/problem
+
 ### 2020.04.01
 * [2D Array - DS](practice/2d-array.md)
 * [Arrays: Left Rotation](practice/arrays-left-rotation.md)
